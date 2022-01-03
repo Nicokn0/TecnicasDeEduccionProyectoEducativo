@@ -1,1 +1,1 @@
-# TecnicaEduccionProyectoEducativo
+# TecnicasDeEduccionProyectoEducativo
