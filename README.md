@@ -1,5 +1,5 @@
 # TecnicasDeEduccionProyectoEducativo
-Dos proyectos creados para la materia Ingenieria de Software y Diseño de sistemas en la cual mediante una situación problema planteada se desarrollaron los siguientes objetivos y caracteriristas para desarrollar a futuro, mediante diferente tecnicas de educción, tipos de entrevista, historia de usuarios, ABM segun sus necesidades.
+Dos proyectos creados para la materia Ingenieria de Software y Diseño de sistemas en la cual mediante una situación problema planteada se desarrollaron los siguientes objetivos y caracteriristas para desarrollar a futuro, mediante diferente tecnicas de educción, tipos de entrevista, historia de usuarios, ABM, CARD segun sus necesidades.
 ********************************************************************************************************************************************
 _Mejorar el diseño de aplicaciones o software de tal modo que se adapten de mejor manera a las necesidades de las organizaciones o finalidades para las cuales fueron creadas.
 
