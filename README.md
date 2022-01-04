@@ -13,6 +13,6 @@ _Una mejor organización de equipos de trabajo, en el área de desarrollo y mant
 Detectar a través de pruebas, posibles mejoras para un mejor funcionamiento del software desarrollado.
 
 
-"Lo verdaderamente significativo en el trabajo colaborativo es poder realizar aportes respetando lo escrito por los demás, fomentando la interacción entre los participantes y generando entre ellos el sentido de pertenencia."
 
-Una forma diferente de enseñar y aprender
+
+
